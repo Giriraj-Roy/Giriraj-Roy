@@ -115,8 +115,8 @@
      
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraj-roy&show_icons=true&locale=en&layout=compact" alt="giriraj-roy" /></p>
+<!---<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraj-roy&show_icons=true&locale=en&layout=compact" alt="giriraj-roy" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraj-roy&show_icons=true&locale=en" alt="giriraj-roy" /></p>
-
+--->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giriraj-roy&" alt="giriraj-roy" /></p>
