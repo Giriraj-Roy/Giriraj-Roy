@@ -19,9 +19,10 @@
 
 
 <!-- Spotify  -->
-## [Listen To Spotify With GIRIRAJ](https://spotify-github-profile.vercel.app/api/view.svg?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+## Listen To Spotify With GIRIRAJ
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
