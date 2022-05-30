@@ -14,8 +14,10 @@
 - 📫 How to reach me **20bme023@iiitdmj.ac.in**
 
 - ⚡ Fun fact **I still know Nothing**
-
-
+ <br><br>
+	<p>
+ <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" width="400" height="400"/><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif" width="400" height="400"/>
+	</p>
 <hr/>
 <br><br><br>
 <!-- Spotify  -->
@@ -45,16 +47,25 @@
 <br>
 <hr/>
 <br><br>
+<h2> Pumping up some work </h2>
+<p>
+
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="300" height="300"/> <tab/> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="300"/>
+	</p>
+<hr/>
+<br> <br>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
  <h3>Programming Languages</h3>
     <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+           <img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="200" height="200" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> -->
+          <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -65,8 +76,10 @@
     <br>
     <h3>Front-End Development</h3>
     <br>
+<!--     <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="200" height="200" /> -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> -->
+          <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" height="100" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="nextjs" width="70" height="40"/>
@@ -78,7 +91,8 @@
     <h3>Back-End Development</h3>
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
+        <img src= "https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" width="100" height="100"/>
     </a>
     <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon" width="40" height="40"/>
@@ -139,3 +153,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraj-roy&show_icons=true&locale=en" alt="giriraj-roy" /></p>
 --->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giriraj-roy&" alt="giriraj-roy" /></p>
+<br>
+<br>
+
