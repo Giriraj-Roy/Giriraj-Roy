@@ -24,11 +24,11 @@
 <h1> Listen To Spotify With GIRIRAJ </h1>
 <br>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=mig37q9ef0plz6owcc4xk0npl&unique={true|1|on|yes})
 
 <br>
 
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=mig37q9ef0plz6owcc4xk0npl&unique={true|1|on|yes})
+
 
 <hr/>
 
