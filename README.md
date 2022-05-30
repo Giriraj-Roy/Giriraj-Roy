@@ -16,16 +16,21 @@
 - ⚡ Fun fact **I still know Nothing**
 
 
-
-
+<hr/>
+<br><br><br>
 <!-- Spotify  -->
-## Listen To Spotify With GIRIRAJ
+<h1> Listen To Spotify With GIRIRAJ </h1>
+<br>
 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<br>
 
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=mig37q9ef0plz6owcc4xk0npl&unique={true|1|on|yes})
 
+<hr/>
 
+<br>
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -37,8 +42,11 @@
 <a href="https://www.kaggle.com/girirajroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giriraj roy" height="30" width="40" /></a>
 <a href="https://instagram.com/giriraj_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giriraj_roy" height="30" width="40" /></a>
 </p>
+<br>
+<hr/>
+<br><br>
 
-</h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
  <h3>Programming Languages</h3>
     <br>
