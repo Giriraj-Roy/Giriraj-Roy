@@ -15,6 +15,16 @@
 
 - ⚡ Fun fact **I still know Nothing**
 
+
+
+
+<!-- Spotify  -->
+## [Listen To Spotify With GIRIRAJ](https://spotify-github-profile.vercel.app/api/view.svg?uid=mig37q9ef0plz6owcc4xk0npl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+
+
+
+
+
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
