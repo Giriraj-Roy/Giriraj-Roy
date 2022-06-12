@@ -47,7 +47,7 @@
 <br>
 <hr/>
 <br><br>
-<h2> Pumping up some work </h2>
+<h2> <strong>Pumping up Some Work</strong> </h2>
 <p>
 
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="300" height="300"/><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="300"/>
