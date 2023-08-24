@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **Machine Learning - REACT JS**
+- 💬 Ask me about **Machine Learning - Full Stack Development**
 
 - 📫 How to reach me **20bme023@iiitdmj.ac.in**
 
